@@ -1,0 +1,14 @@
+name: ProfileUI
+main: LuqmanDv\Profile\Main
+version: 1.0.0
+api: [5.0.0]
+author: LuqmanDv
+
+commands:
+   profile:
+      description: See Your Own Profile On This Server
+      permissioin: profile.sigma
+
+permissions:
+   profile.sigma:
+      default: true
